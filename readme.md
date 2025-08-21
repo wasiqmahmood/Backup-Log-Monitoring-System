@@ -164,3 +164,9 @@ Please make sure to update tests as appropriate.
 ## 📄 License
 
 This project is licensed under the [ISC License](https://choosealicense.com/licenses/isc/).
+
+
+
+
+![Slack Notification Example Backup Created](./assets/ScreenShort//Screenshot%20from%202025-08-21%2016-18-57.png)
+![Slack Notification Example Server Error](./assets/ScreenShort//Screenshot%20from%202025-08-21%2016-19-22.png)
