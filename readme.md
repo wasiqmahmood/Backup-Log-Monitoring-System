@@ -28,6 +28,8 @@ Add your Slack webhook URL:
 
 bash
 SLACK_WEBHOOK_URL="https://hooks.slack.com/services/your/webhook/url"
+
+------
 2. Backup Script Configuration
 Edit the backup.sh file and update these variables:
 
